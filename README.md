@@ -1,2 +1,2 @@
-# Master_Thesis_MateuszKostrz
+# Master Thesis - Mateusz Kostrz
 The code used for Master Thesis
